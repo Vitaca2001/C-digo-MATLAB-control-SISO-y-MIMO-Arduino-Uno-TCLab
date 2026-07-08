@@ -2,12 +2,12 @@ Trabajo de Fin de Grado Universidad de La Laguna España
 
 -Recomendaciones
 
-Si no lee el puerto USB de Arduino es necesario descargar unos drivers especificos
+Si no lee el puerto USB de Arduino es necesario descargar unos drivers especificos.
 Para el correcto uso de estos archivos es necesario tener siempre el archivo tclabULL.m presente en la carpeta de trabajo.
 
 -Modo de empleo
 
-Primero hay que realizar la respuesta escalón (step.m)
+Primero hay que realizar la respuesta escalón (step.m).
 Segundo realizar la identificación del sistema.
 Tercero discretizar el sistema.
 Cuarto ejeutar la simulación elegida.
